@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Analytics-Service/Analytics-Service.iml" filepath="$PROJECT_DIR$/Analytics-Service/Analytics-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booking-Service/Booking-Service.iml" filepath="$PROJECT_DIR$/Booking-Service/Booking-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Content-Management-Service/Content-Management-Service.iml" filepath="$PROJECT_DIR$/Content-Management-Service/Content-Management-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Event-Service/Event-Service.iml" filepath="$PROJECT_DIR$/Event-Service/Event-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Event-proj.iml" filepath="$PROJECT_DIR$/.idea/Event-proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" filepath="$PROJECT_DIR$/Gateway-Service/Gateway-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Integration-Services/Integration-Services.iml" filepath="$PROJECT_DIR$/Integration-Services/Integration-Services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notification-Service/Notification-Service.iml" filepath="$PROJECT_DIR$/Notification-Service/Notification-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User-Service/User-Service.iml" filepath="$PROJECT_DIR$/User-Service/User-Service.iml" />
+    </modules>
+  </component>
+</project>

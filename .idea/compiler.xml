@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Booking-Service" />
+        <module name="Integration-Services" />
+        <module name="Content-Management-Service" />
+        <module name="Gateway-Service" />
+        <module name="Notification-Service" />
+        <module name="Event-Service" />
+        <module name="Analytics-Service" />
+        <module name="User-Service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Analytics-Service" target="1.8" />
+      <module name="Booking-Service" target="1.8" />
+      <module name="Content-Management-Service" target="1.8" />
+      <module name="Event-Service" target="1.8" />
+      <module name="Gateway-Service" target="1.8" />
+      <module name="Integration-Services" target="1.8" />
+      <module name="Notification-Service" target="1.8" />
+      <module name="User-Service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Analytics-Service" options="-parameters" />
+      <module name="Booking-Service" options="-parameters" />
+      <module name="Content-Management-Service" options="-parameters" />
+      <module name="Event-Service" options="-parameters" />
+      <module name="Gateway-Service" options="-parameters" />
+      <module name="Integration-Services" options="-parameters" />
+      <module name="Notification-Service" options="-parameters" />
+      <module name="User-Service" options="-parameters" />
+    </option>
+  </component>
+</project>

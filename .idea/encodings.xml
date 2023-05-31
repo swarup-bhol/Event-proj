@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Analytics-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Analytics-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Booking-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Booking-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Content-Management-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Content-Management-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Event-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Event-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integration-Services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Integration-Services/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Notification-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Notification-Service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User-Service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User-Service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
